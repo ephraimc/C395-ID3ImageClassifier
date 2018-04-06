@@ -19,9 +19,6 @@ Python 2.7.12 is required with the following libraries:
 3. numpy
 4. math
 
-treeSet.pkl contains an array of shape (6, ) which contains six trees trained
-on the entire clean data set
-
 main.py outputs predictions and confusion matrices
 config.py contains variables to be configured before running the program
 functions.py contains functions for building a tree
